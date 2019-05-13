@@ -1,3 +1,9 @@
+# General
+- solutions that argue "GAP says so" won't be accepted
+
+# Solutions
+- Solutions to the "Permutation Groups" lecture from SS19 can be found under
+  https://github.com/lbfm-rwth/PermGrpsSS19/
 - "String Isomorphism" und "Coset Intersection" polynomial-zeit äquivalent,
   siehe Luks' paper "Permutation groups and polynomial-time computation"
 
@@ -6,6 +12,7 @@
   Find counter example (use GAP)?
 
 # Properties of alternating and symmetric groups
+- See Dixon Mortimer Chapter 8
 - Determine Aut(S_5) and Aut(S_6)
 - Show `Aut(S_n) \cong S_n` für n = 5 oder n >= 7
   https://groupprops.subwiki.org/wiki/Symmetric_groups_on_finite_sets_are_complete
@@ -22,3 +29,10 @@
 - Prove or counterexample: Let $G, H \leq S_n$ perm groups with $H \leq G$.
   Let $G$ have a generating set of size $d$. Then $H$ has a generating set of
   size $\leq d$.
+
+#
+- matrix group given. Using the permutation action on natural module is
+  inefficient. Why?
+  - Calculate size of base and basic orbits?
+  - compare "basic operations"?
+- anschauliche Erklärung für "small base implies big support"

@@ -1,3 +1,29 @@
+# Cartesian Decompositions
+- bijection between CDs and direct factorization of perm groups?
+- Is there a bijection between CDs respected by a group in PA and block systems
+  (BS) respected by its counterpart in imprimitive action?
+- Orthogonal embedding => rename to ordered cartesian decomposition
+- algorithm to compute CDs?
+
+# Which algorithms could be implemented with my code?
+## definitely possible
+- given primitive PA type group. Find generators of a "top group"
+
+## maybe possible
+- given primitive PA type groups. make it easier to decide isomorphy and
+  permutation isomorphy?
+- Have constructive algorithms to do Cheryl and Csaba's theory with explicit
+  examples?  Would this be helpful? Or is it sufficient for them to only look
+  at "standard" examples?
+- normalizers of imprimitive groups: leverage chapter 3 in cheryl and csaba's
+  book? In which cases can we associate a block system to a transitive minimal
+  normal subgroup?  Can compute all block systems. Can I connect the block
+  systems to cartesian decompositions?  Cartesian decompositions correspond to
+  minimal normal subgroups, right? Maybe that the normalizer can map two
+  cartesian decompositions to each other is equivalent to conjugating the two
+  minimal normal subgroups. Would this be helpful?  See Praeger and Schneider,
+  p. 6
+
 ## CD + Randomised alg to compute socle of primitive groups (Seb. K.s B Thesis)
 - If _n = d ^ l_, then orbits of MNSGs of socle must have length d!
   When generating elements of soc G with territory size 1 we can get
