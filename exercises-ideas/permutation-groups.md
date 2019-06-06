@@ -10,6 +10,12 @@
 # O'Nan-Scott
 - Is true: If $G$ is primitive, then $\soc G _ \alpha$ is maximal in $\soc G$.
   Find counter example (use GAP)?
+- Let G = A_5 \times A_5. Classify all faithful primitive actions of this group.
+  Hint: Each A_5 must act transitively.
+  Hint 2: Look for maximal subgroups.
+  Solution: There is only one (?), namely the simple diagonal action.
+  Alternative: Let G = A_5 \wreath C_2. This way we remind the students that
+  a wreath product is an abstract group.
 
 # Properties of alternating and symmetric groups
 - See Dixon Mortimer Chapter 8
