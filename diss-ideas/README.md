@@ -1,11 +1,12 @@
-# Constructive Recognition of Primitive Groups
-- I can constructively recognise PA type primitive groups where I construct a
+# Canonization of Primitive Groups
+- I can 'constructively recognise' PA type primitive groups where I construct a
   permutation isomorphism.
   Can I do the same for all non-regular socle primitive groups?
 - applications for "Normaliser", "Conjugacy of groups", "canonical image for
   conjugacy of groups"
   and more?
 - do this in LV NLTime?
+- can I also do canonization?
 
 # Next steps
 - How to efficiently compute intersection with large primitive groups?
