@@ -6,3 +6,4 @@
 - read "The Book: Proofs from .."
 - fundamentals of category theory, which book?
 - Some Tapas of Computer Algebra, Cohen, Cuypers, Sterk
+- Turing machines!
