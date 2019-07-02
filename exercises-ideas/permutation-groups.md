@@ -36,6 +36,12 @@
   Let $G$ have a generating set of size $d$. Then $H$ has a generating set of
   size $\leq d$.
 
+# Easy
+- Let $G = C_n$ be cyclic group. How small is the smallest faithfull permutation
+  representation in general?
+  Idea: If $n$ is prime then regular one is the only faithfull transitive
+  permutation representation.
+
 #
 - matrix group given. Using the permutation action on natural module is
   inefficient. Why?
