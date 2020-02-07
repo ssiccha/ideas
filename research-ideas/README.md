@@ -1,3 +1,8 @@
+# Nicer representation of primitive groups
+- extend library
+- compute with TW type groups.
+  - construct examples where normalizer of TW type group becomes SD?
+
 # Canonization of Primitive Groups
 - I can 'constructively recognise' PA type primitive groups where I construct a
   permutation isomorphism.
