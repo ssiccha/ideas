@@ -3,7 +3,8 @@
   themselves?
 
 # Proseminare
-- read "The Book: Proofs from .."
-- fundamentals of category theory, which book?
+- read "Proofs from The Book",
+  - alternative: G. H. Hardy, "a mathematicians apology"
+- fundamentals of category theory, which book? cats for the working math?
 - Some Tapas of Computer Algebra, Cohen, Cuypers, Sterk
 - Turing machines!
