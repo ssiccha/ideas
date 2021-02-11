@@ -1,5 +1,6 @@
 # Nicer representation of primitive groups
 - extend library
+- compute nice representations of TW type groups, see TW.md
 - compute with TW type groups.
   - construct examples where normalizer of TW type group becomes SD?
 
