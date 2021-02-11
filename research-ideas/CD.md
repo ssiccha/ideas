@@ -1,4 +1,9 @@
+
 # Cartesian Decompositions
+
+- generalize CDs for simple diagonal type?
+- compute a CD for PA type with a randomized algorithm?
+
 - bijection between CDs and direct factorization of perm groups?
 - Is there a bijection between CDs respected by a group in PA and block systems
   (BS) respected by its counterpart in imprimitive action?
